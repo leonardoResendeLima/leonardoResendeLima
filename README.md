@@ -23,7 +23,6 @@ Im from Rio de Janeiro , and I work as a **Tech Lead / Senior Software Engineer 
 See Ya 😄
 
 <br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoResendeLima&layout=compact)
  <br><br>
