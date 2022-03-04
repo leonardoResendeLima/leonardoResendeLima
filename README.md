@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Leonardo Resende
+
+Im from Rio de Janeiro , and I work as a Tech Lead / Senior Software Engineer at Lojas Americanas and do some freelance work from time to time.
+
+Currently I work on projects focused on the Human Resources area (Recruitment and Selection and Profile Analysis), mainly developing Javascript (Node, React, React-Native)
+
+I am also participating in an external project that allows the gathering of health data from users and integrations with various devices such as Echocardiograms, Heart Rate, Oxygen Saturation, etc. that allow analysis of vital signs and emergency responses.
 
 <!--
 **leonardoResendeLima/leonardoResendeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
