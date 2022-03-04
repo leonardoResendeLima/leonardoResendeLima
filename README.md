@@ -1,22 +1,38 @@
-### Hi there 👋, my name is Leonardo Resende
+## Hi there 👋, my name is **Leonardo Resende**
 
-Im from Rio de Janeiro , and I work as a Tech Lead / Senior Software Engineer at Lojas Americanas and do some freelance work from time to time.
+<br>
 
-Currently I work on projects focused on the Human Resources area (Recruitment and Selection and Profile Analysis), mainly developing Javascript (Node, React, React-Native)
+Im from Rio de Janeiro , and I work as a **Tech Lead / Senior Software Engineer at Lojas Americanas** and do some freelance work from time to time.
 
-I am also participating in an external project that allows the gathering of health data from users and integrations with various devices such as Echocardiograms, Heart Rate, Oxygen Saturation, etc. that allow analysis of vital signs and emergency responses.
+🔭 I’m currently working on ...
 
-<!--
-**leonardoResendeLima/leonardoResendeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Projects focused on the Human Resources area (Recruitment and Selection and Profile Analysis), mainly developing **Javascript** (Node, React, React-Native), MongoDB and MySQL databases and Azure 
 
-Here are some ideas to get you started:
+👯 I’m also participating in ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- An external project that gathers **health data** from users and integrates with various **devices** such as Echocardiograms, Heart Rate, Oxygen Saturation, etc. that allow **analysis of vital signs and emergency responses**.
+
+🌱 I’m currently learning ...
+
+- DevOps tools like Docker, Kubernets, AKS / Python / GraphQL / NativeScript and Flutter
+
+📫 How to reach me: ...
+
+- leonardoresendelima@gmail.com
+
+See Ya 😄
+
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoResendeLima&layout=compact)
+ <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/leonardoResendeLima/leonardoResendeLima?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/leonardoResendeLima?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/leonardoResendeLima?style=flat-square&color=black&logo=github">
+  </a>
