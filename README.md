@@ -1,4 +1,4 @@
-## Hi there 👋, my name is **Leonardo Resende**
+## Hi there 👋 my name is **Leonardo Resende**
 
 <br>
 
